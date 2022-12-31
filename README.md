@@ -1,2 +1,2 @@
 # PhaseCodeDisk
-# Derivation of river morphology
+# Derivation of river morphology using satellite images
