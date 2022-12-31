@@ -1,2 +1,2 @@
 # PhaseCodeDisk
-# First try
+# Derivation of river morphology
