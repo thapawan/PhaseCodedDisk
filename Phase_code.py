@@ -77,3 +77,4 @@ plt.show()'''
 #print (r)'''
 #change
 #try
+#ok
