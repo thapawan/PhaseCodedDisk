@@ -7,10 +7,11 @@ Delineate river morphology using Phase Code Disk Approach
 
 Phase Code Disk  delineate that "Magnitude peak” and “Phase image”
 
-Phase image provides river direction
+
 
 
 Magnitude Peak provides width and centerline of a Mobile River
+Phase image provides river direction
 
 
 ##### Study Area: Mobile River
