@@ -14,5 +14,5 @@ Magnitude Peak provides width and centerline of a Mobile River
 Phase image provides river direction
 
 
-#### Study Area: Mobile River
+#### Study Area: Mobile and Cahaba River
 upload and update soon...
