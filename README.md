@@ -1,4 +1,4 @@
-# Phase Code Disk Approach
+# Phase Coded Disk Approach
 
 ## Derivation of river morphology using satellite images
 ### Landsat 8 and Sentinel 2A
