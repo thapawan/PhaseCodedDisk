@@ -11,6 +11,7 @@ Phase Code Disk  delineate that "Magnitude peak” and “Phase image”
 
 
 Magnitude Peak provides width and centerline of a Mobile River
+
 Phase image provides river direction
 
 
