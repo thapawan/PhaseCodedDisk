@@ -1,0 +1,1 @@
+It contain binary image (0 & 1) to make a river of 3 pixels (case 1), 6 pixels (case 2), and 3 pixels with tributaries same size (case 3) and 6 pixels with 3 pixels small tributaries(case 4).
